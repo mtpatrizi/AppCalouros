@@ -1,0 +1,13 @@
+- mural de notícias sobre eventos, tirar dúvidas  (útil para colocar algo caso apareça de última hora)
+- mapa (ver com a carto se eles tem um mapa da Unesp)
+- imagens de referências para certos pontos do mapa (aparecem ao clicar)
+- contatos das EJs, CAs, DA, instituições da Unesp
+- informações sobre a EJCOMP
+- informações (ArrayList Dinâmico das descrições de instituições)
+- fotos das instituições.
+- pegar informações com as outras EJ's
+- contatos junto com as informações
+- tabela com calendário (com eventos [precisa requisitar a lista de eventos com antecedência])
+
+defeitos do app anterior: 
+- app anterior demora a carregar
